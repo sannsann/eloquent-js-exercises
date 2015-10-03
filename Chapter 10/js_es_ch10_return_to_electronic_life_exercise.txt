@@ -1,0 +1,47 @@
+Modules
+
+How should the following functions and types be packaged/modularized?
+
+Vector
+Grid
+directions
+directionNames
+randomElement
+BouncingCritter
+elementFromChar
+World
+charFromElement
+Wall
+View
+WallFollower
+dirPlus
+LifelikeWorld
+Plant
+PlantEater
+SmartPlantEater
+Tiger
+
+1) Creatures Module:
+BouncingCritter
+WallFollower
+Plant
+PlantEater
+SmartPlantEater
+Tiger
+
+2) Grid Module:
+elementFromChar
+charFromElement
+randomElement
+
+3) World Module:
+World
+Wall
+LifelikeWorld
+View
+
+4) Vector Module:
+Vector
+directions
+directionNames
+dirPlus
